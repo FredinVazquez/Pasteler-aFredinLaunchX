@@ -6,9 +6,34 @@
   Una vez realizado el 
   </p>
 
-<h2>Referencias</h2>
+<h2> Semántica en la página</h2>
+<p>
+  Es muy importante tener esto en mente y es la semántica que deberá de tener nuestra página, y la semántica se refiere a cuanto el acomodo que tendrá nuestra página.
+  Y es que esto va a definir la visibilidad de nuestra página sobre las demás, lo cual se ve reflejado en el SEO.
+  
+  Por ende, se deberá de iniciar con un <body> el cual es la parte del cuerpo de nuestra página, después viene el <header> el cual estará definiendo la cabecera de nuestra página, una vez colocado el header viene la parte de <main> el cual contendrá la parte principal de la página. Finalmente viene la parte de footer el cual es el pié de la página.
+  
+  Existen muchos otros como: <aside>, <div>, <section>, pero creo que estos se deberían de tratar como contenedores realmente.
+</p>
+
+<h3> Contenedores </h3>
+  <p>
+    Los contenedores como su nombres lo indica será para poder contener, agrupar, elementos con características iguales de modo que va a permitir tener más ordenado y mejor identificado las partes de nuestra página web o aplicación. Entonces, los que tenemos son:
+  
+    Nota: lo puse con espacios para evitar tener problemas son la identificación de estos.   
+  
+  <ul>
+      <li> <nav > </li>
+      <li> <nav> </li>
+  </ul>
+  
+  </p>
+
+<h3>Referencias</h3>
+<hr>
 <ul>
   <li>https://fontawesome.com/icons/cake-candles?s=solid</li>
   <li>Foto de EKATERINA BOLOVTSOVA en Pexels: https://www.pexels.com/es-es/foto/comida-postre-pastel-delicioso-5662103/</li>
   <li>https://fontawesome.com/icons/wpforms?s=brands</li>
   </ul>
+
