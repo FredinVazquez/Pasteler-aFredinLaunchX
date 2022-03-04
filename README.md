@@ -5,3 +5,10 @@
   
   Una vez realizado el 
   </p>
+
+<h2>Referencias</h2>
+<ul>
+  <li>https://fontawesome.com/icons/cake-candles?s=solid</li>
+  <li>Foto de EKATERINA BOLOVTSOVA en Pexels: https://www.pexels.com/es-es/foto/comida-postre-pastel-delicioso-5662103/</li>
+  <li>https://fontawesome.com/icons/wpforms?s=brands</li>
+  </ul>
