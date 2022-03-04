@@ -24,7 +24,8 @@
   
   <ul>
       <li> <nav > </li>
-      <li> <nav> </li>
+      <li> <form > </li>
+        <p>Esta etiqueta es contiene lo que sería nuestro formulario, esto es de manera formal se debería de definir, mas que nada para una buena interpretación del navegador, además de que funciona para limitar los formularios, con esto podemos limitar y saber en dónde inicia o termina un formulario. También abre la posibilidad de tener varios formularios en un solo documento y con esto se van limitanto.</p>
   </ul>
   
   </p>
@@ -35,5 +36,10 @@
   <li>https://fontawesome.com/icons/cake-candles?s=solid</li>
   <li>Foto de EKATERINA BOLOVTSOVA en Pexels: https://www.pexels.com/es-es/foto/comida-postre-pastel-delicioso-5662103/</li>
   <li>https://fontawesome.com/icons/wpforms?s=brands</li>
+  <li>https://www.pexels.com/es-es/foto/pastel-de-chocolate-2067436/</li>
+  <li>https://www.pexels.com/es-es/foto/comida-mano-magdalena-sabroso-7966429/</li>
+  <li>https://www.pexels.com/es-es/foto/amor-creativo-romantico-petalos-4041285/</li>
+  <li>https://www.pexels.com/es-es/foto/comida-sano-rojo-verano-7479823/</li>
+  
   </ul>
 
