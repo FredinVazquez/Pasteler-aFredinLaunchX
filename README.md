@@ -30,6 +30,21 @@
   
   </p>
 
+  <h2>Página para el Pastelero</h2>
+  <p>Para esto se tendrá que revisar lo solicitado en el caso
+  
+    <ul>
+      <li>El pastelero necesita tener la información de la cantidad de sabores que le quedan para hacer los pasteles.</li>
+      <li>El pastelero necesita tener la información de la cantidad de adornos que le quedan para hacer los pasteles.</li>
+      <li>El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.</li>
+  </ul>
+  
+  De modo que se necesitará realmente solo mostrar información acerca de la venta de productos, toda la información acerca de los pedidos realizados se representará en un tabla, mientras que lo demás no se específica, o sea la cantidad restante de la otra información lo cual abre la posibilidad de poder representar esto en tablas.
+  
+  Actualmente no tengo conocimiento acerca de la sección de BackEnd y cómo se podría enviar la información a esa sección, por lo cual estará sin funcionalidad por el momento esta parte de la página, dejando que sea meramente maquetada pero sin funcionalidad esta sección del pastelero.
+  
+  </p>
+  
 <h3>Referencias</h3>
 <hr>
 <ul>
