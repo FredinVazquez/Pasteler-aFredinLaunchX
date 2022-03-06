@@ -56,6 +56,7 @@
   <li>https://www.pexels.com/es-es/foto/amor-creativo-romantico-petalos-4041285/</li>
   <li>https://www.pexels.com/es-es/foto/comida-sano-rojo-verano-7479823/</li>
   <li>https://www.pexels.com/es-es/foto/fruta-de-naranja-en-rodajas-691166/</li>
+  <li>Consulta de tablas: https://www.uv.es/jac/guia/tablaeje.htm</li>
   
   </ul>
 
