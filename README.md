@@ -6,6 +6,11 @@ Otro punto a cubrir será llevar a cabo la maqueta de la página que solo el pas
 <ul>
   <li><a href="https://www.canva.com/design/DAE5_Tk28-w/4vB-RIY4578GlWTzEwAiEw/view?utm_content=DAE5_Tk28-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
      target="blank">Link de logo - Canvas</a></li>
+  
+  <li><a href="https://miro.com/app/board/uXjVOJaNEOI=/?invite_link_id=24446157952"
+     target="blank">Link de logo - Canvas</a></li>
+  
+  
   </ul>
 
 <p>
