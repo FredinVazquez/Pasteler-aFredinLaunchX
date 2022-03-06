@@ -1,14 +1,16 @@
-<h1>PasteríaFredinLaunchX</h1>
+<h1>PasteríaFredinLaunchX - Cake Developer</h1>
 <p>El caso se trata de realizar la maquetación de una página tal que los clientes puedan ordenar un pastel completamente a su gusto, o sea que pueda tener la libertad de añadirle una descipción como Felicidades, hasta escoger los ardonos y sabores que tendrá el paste. La realización de esto es con base a un formulario.
 Otro punto a cubrir será llevar a cabo la maqueta de la página que solo el pastelero podrá ver, y será para el control de los pedidos y recursos restantes.</p>
+
+<p> El nombre de la pasteleria que pensé fue Cake Developer</p>
 
 <h2>Vinculos de las actividades desarrolladas</h2>
 <ul>
   <li><a href="https://www.canva.com/design/DAE5_Tk28-w/4vB-RIY4578GlWTzEwAiEw/view?utm_content=DAE5_Tk28-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
-     target="blank">Link de logo - Canvas</a></li>
+     target="blank">Link de logo Cake Developer- Canvas</a></li>
   
   <li><a href="https://miro.com/app/board/uXjVOJaNEOI=/?invite_link_id=24446157952"
-     target="blank">Link de logo - Canvas</a></li>
+     target="blank">Wireframe UX - Cake Developer</a></li>
   
   
   </ul>
