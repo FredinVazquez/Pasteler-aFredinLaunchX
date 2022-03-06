@@ -1,4 +1,13 @@
 <h1>PasteríaFredinLaunchX</h1>
+<p>El caso se trata de realizar la maquetación de una página tal que los clientes puedan ordenar un pastel completamente a su gusto, o sea que pueda tener la libertad de añadirle una descipción como Felicidades, hasta escoger los ardonos y sabores que tendrá el paste. La realización de esto es con base a un formulario.
+Otro punto a cubrir será llevar a cabo la maqueta de la página que solo el pastelero podrá ver, y será para el control de los pedidos y recursos restantes.</p>
+
+<h2>Vinculos de las actividades desarrolladas</h2>
+<ul>
+  <li><a href="https://www.canva.com/design/DAE5_Tk28-w/4vB-RIY4578GlWTzEwAiEw/view?utm_content=DAE5_Tk28-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+     target="blank">Link de logo - Canvas</a></li>
+  </ul>
+
 <p>
   Lo primero a comenzar será con el logo de la página, en este caso el logo fue realizado por medio de Canvas para colocar el texto, mientras que la imagen en sí fue realizada por medio del programa Blender, el cual es para desarrollar modelo y animación en 3D y 2D. El modelo en 3D utilizado no fue realizado por mí sino que fue un material gratuito descargado con anterioridad. 
   La modificación de la escena y nombre para la página fue realizado totalmente por mí.
