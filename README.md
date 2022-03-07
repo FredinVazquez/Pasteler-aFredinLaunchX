@@ -19,6 +19,10 @@ Otro punto a cubrir será llevar a cabo la maqueta de la página que solo el pas
   <li><a href="https://fredinvazquez.github.io/Cake%20Developer/pasteleriaMenu.html"
      target="blank">Cake Developer - Maquetación con HTML.</a></li>
   
+  <li><a href="https://fredinvazquez.github.io/Cake%20Developer/paginaPastelero.html"
+     target="blank">Página para control de ventas del pastelero - Maquetación con HTML.</a></li>
+  
+  
 </ul>
 
 <p>
