@@ -52,7 +52,7 @@ Otro punto a cubrir será llevar a cabo la maqueta de la página que solo el pas
   <h2>Página para el Pastelero</h2>
   <p>Para esto se tendrá que revisar lo solicitado en el caso
   
-    <ul>
+  <ul>
       <li>El pastelero necesita tener la información de la cantidad de sabores que le quedan para hacer los pasteles.</li>
       <li>El pastelero necesita tener la información de la cantidad de adornos que le quedan para hacer los pasteles.</li>
       <li>El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.</li>
