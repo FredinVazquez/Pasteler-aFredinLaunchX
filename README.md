@@ -16,6 +16,9 @@ Otro punto a cubrir será llevar a cabo la maqueta de la página que solo el pas
   <li><a href="https://www.figma.com/file/fz2we9EMP3L9fKUi1LS8Yd/Cake-Developer?node-id=0%3A1"
      target="blank">UI Design - Cake Developer</a></li>
   
+  <li><a href="https://fredinvazquez.github.io/Cake%20Developer/pasteleriaMenu.html"
+     target="blank">Cake Developer - Maquetación con HTML.</a></li>
+  
 </ul>
 
 <p>
