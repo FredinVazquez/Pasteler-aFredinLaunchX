@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+            <meta charset="UTF8">
+            <meta http-equiv="X-UA-Compatible" content="IE-edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="icon" href="https://fontawesome.com/icons/table-list?s=solid" type="image/svg+xml" 
+            sizes="16x16">
+            <link rel="stylesheet" href="stylesheets.css">
+            <title>Cake Developer - Formulario</title> 
+            
+    </head> 
+    <body>
+        <!--- Es el inicio de la página donde se estará colocando la navegación, y barra de búsqueda. -->
+        <header>
+            <input class="busqueda" type="text" id="busqueda" name="busqueda"  placeholder="  Búsqueda">
+            <br><br>
+            <nav >
+
+                <a href="./pasteleriaMenu.html">HomePage</a>    <a href="./pasteleriaContacto.html">Contacto</a>    Desarrollar
+            </nav>
+            <div>
+                <h1 class="subtitulosOtros">Comience a desarrollar</h1>
+            </div>
+            <br><hr><br>
+            
+        </header>
+        
+        <!--- Contenido principal de este documento, el cual es el formulario en sí -->
+        <main>
+            <!--- En este caso lo estoy colocando en un div debido a que no tengo una agrupación de otros elementos que se relacionen
+            pero sí tengo una agrupación de texto y título. Además coloqué el título en h2 debido a que el h1 fue usado en la página
+            principal-->
+            <div>
+                <p>Ya está en la sección para elabora su pastel, usted podrá escoger la cantidad de adornos y sabores que prefiera. 
+                    Lo único que se debe de mantener en mente es el sentido de equilibio entre el tamaño del pastel (niveles y diametro) y el
+                    material que desea emplear para su elaboración.
+                </p><br>
+            </div>
+            
+            <!-- De manera formal se debe de agregar la etiqueta form para indicar que lo siguiente es un formulario.-->
+            <form> 
+            <!-- Ahora agrupo en div porque ya donde tengo elementos en común agrupados, no obstante estos no pueden
+            verse de forma independiente, así que uso section y no article. -->
+            <div>
+                <div>
+                    <h3>Ingrese la descripción general del pastel</h3><br>
+                    <input type="text" id="descripcion" name="descripcion" placeholder="e.j. Tendrá Felicidades Juan con chocolate...">
+                    <br><br>
+                    <label for="niveles">¿Cuántos niveles necesita tu pastel?: </label>
+                    <select name="niveles" id="niveles">
+                        <option value="1_nivel">1</option>
+                        <option value="2_nivel">2</option>
+                        <option value="3_nivel">3</option>
+                        <option value="4_nivel">4</option>
+                    </select>
+                </div><hr><br>
+                
+                <div>
+                    <h3>Hora de escoger los materiales</h3>
+                    <p>Tenga en cuenta que es posible combinar varios sabores y decoraciones.</p><br>
+                
+                    <!--Sección para los sabores disponibles-->
+                    <h3>Escoge los sabores de tu obra</h3><br>
+                    <section>
+                        <!-- Para poder presentar los distintos materiales y elección voy a encerrarlos como div para poder moverlos.-->
+                        <div>
+                            <p>Pan hecho a base de chocolate, no contiene añadidos como chocolate en líquido. Usado usualmente como base </p>
+                            <input type="checkbox" id="PanChocolate" name="chocolate">
+                            <label for="chocolate">Chocolate $34.00</label>
+                        </div>
+                        <br>
+                        <div>
+                            <p>Dale un toque de canela a tu obra, en polvo</p>
+                            <input type="checkbox" id="canela" name="canela">
+                            <label for="canela">Canela $24.00</label>
+                        </div>
+                        <br>
+                        <div>
+                            <p>¿Te gustaría algo más fresco? Podrías añadir coco en tu pastel</p>
+                            <input type="checkbox" id="coco" name="coco">
+                            <label for="coco">Coco $32.00</label>
+                        </div>
+                        <br>
+                        <div>
+                            <p>Los cítricos son deliciosos además de saludables, añade un sabor a naranja a tu pastel</p>
+                            <input type="checkbox" id="naranja" name="naranja">
+                            <label for="naranja">Naranja $28.80</label>
+                        </div>
+                        <br>
+                        <div>
+                            <p>¿Te gusta el sabor de las manzanas? Añade ese sabor dulce a tu creación</p>
+                            <input type="checkbox" id="manzanas" name="manzanas">
+                            <label for="manzanas">Manzanas $24.50</label>
+                        </div>
+                        <br>
+                        <div>
+                            <p>Las uvas no es solo para vino, también puedes usarlo de forma creativa. Atrévete a añadirlo su sabor.</p>
+                            <input type="checkbox" id="uvas" name="uvas">
+                            <label for="uvas">Uvas $38.30</label>
+                        </div>
+                        <br>
+                        <div>
+                            <p>Piña para la niña, ¿no? Añade y disfruta su sabor.</p>
+                            <input type="checkbox" id="piña" name="piña">
+                            <label for="piña">Piña $35.00</label>
+                        </div>
+                        <br>
+                        <div>
+                            <p>Añade un sabor a sandia por medio de una capa de pan</p>
+                            <input type="checkbox" id="sandia" name="sandia">
+                            <label for="sandia">Sandia $35.00</label>
+                        </div>
+                    </section>
+                    
+                    <br><br>
+
+                    <!--Sección para las decoraciones disponibles-->
+                    <h3>Escoge las decoraciones de tu obra</h3><br>
+                    <section>
+                        
+                        <div>
+                            <p>Piezas de chocolate en forma de corazones para decorar la superficie del pastel</p>
+                            <label for="PiezasCh">Piezas de chocolate $7.50</label>
+                            <input type="checkbox" id="PiezasCh" name="PiezasCh">
+                        </div>
+                        <br>
+                        <div>
+                            <p>Decoraciones con Chantilly en forma de kiss.</p>
+                            <label class="chantillyKiss">Decoración con Chantilly $5.00</label>
+                            <input type="checkbox" id="chantillyKiss" name="chantillyKiss">
+                            
+                        </div>
+                        <br>
+                        <div>
+                            <p>Flores hechas con fondant (comestibles)</p>
+                            <label for="flores">Flores $15.60</label>
+                            <input type="checkbox" id="flores" name="flores">
+                            <br>
+                            <label for="cantidad">Cantidad de unidades que desea</label>
+                            <input type="number" class="cantidad"  name="cantidad" placeholder="e.j. 12">
+                        </div>
+                        <br>
+                        <div>
+                            <p>Velas de cumpleaños, ideal para esa ocasión</p>
+                            <label for="velas">Velas de cumpleaños $2.20/c.u</label>
+                            <input type="checkbox" id="velas" name="velas">
+                            <br>
+                            <label for="cantidad">Cantidad de unidades que desea</label>
+                            <input type="number" class="cantidad" name="cantidad" placeholder="e.j. 12">
+                        </div>
+                        <br>
+                        <div>
+                            <p>Corazones rosados para demostrar ese amor sobre esa persona tan especial que tienes</p>
+                            <input type="checkbox" id="corazones" name="corazones">
+                            <label for="corazones">Corazones $40.60</label><br>
+                        </div>
+                        <br>
+                        <div>
+                            <p>Flor principal en el pastel, cubre la mayor parte de la superficie</p>
+                            <input type="checkbox" id="florP" name="florP">
+                            <label for="florP">Flor $65.60</label><br>
+                        </div>
+                        <br>
+                        <div>
+                            <p>Cubierta simple de caramelo</p>
+                            <input type="checkbox" id="cubierta" name="cubierta">
+                            <label for="cubierta">Cubierta de caramelo $34.00</label><br>
+                        </div>
+                        <br>
+                        <div>
+                            <p>Cubierta de frutos rojos frescos: (fresas, moras, arándanos, frambuesas)</p>
+                            <input type="checkbox" id="frutosR" name="frutosR">
+                            <label for="frutosR">Frutos rojos $69.00</label><br>
+                        </div>
+                    </section>
+                </div>
+                <br><br>
+
+                <div>
+                    <script>
+                        function alerta(){
+                            alert("Se ha enviado sus datos, pronto se creará su pastel.")
+                        }
+                    </script>
+
+                    <a href="./pasteleriaMenu.html">
+                    <input type="button" onclick="alerta()" value="Siguiente"> </a><br><br>
+                </div>
+
+            </form>
+            </div>
+        </main>
+
+        <footer >
+            <div class="cuadroBaseFooter"></div>
+            <div class="cuadro"></div>
+            
+            <p class="cuadro"> © Copyright 2010-2022 - Todos los derechos reservados a Cake Developer</p>
+        </footer>
+
+    </body>
+</html>
+    

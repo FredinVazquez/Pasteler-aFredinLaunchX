@@ -1,0 +1,145 @@
+/* Se agregará un estilo para el pie de página */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Fuente personalizada*/
+@font-face{
+    font-family: 'Rochester';
+    src: url("./Fuentes/Rochester-Regular.ttf");
+}
+
+ .cuadro{
+    color: #e4c696;
+    position: relative;
+    text-align: center;
+}
+
+footer .cuadro{
+    width: 100%;
+    height: 20px;
+    margin: auto;
+    position: relative;
+    top: 120px;
+    background: #33291E;
+}
+
+html, body {
+    min-height: 100%;
+    
+}
+
+footer .cuadroBaseFooter{
+    width: 100%;
+    height: 120px;
+    background: #423B32;
+    position: relative;
+    top: 120px;
+}
+
+body{
+    background-size: cover;
+    background: rgb(255,238,219);
+    background: linear-gradient(180deg, rgba(255,238,219,1) 0%, rgba(255,225,190,0) 37%);
+}
+
+ .tc{
+    background-size: cover;
+    background: rgb(70, 70, 70);
+    background: linear-gradient(180deg, rgb(189, 189, 189) 0%, rgba(255,225,190,0) 10%);
+}
+
+
+/*Barra de navegación*/
+ .busqueda{
+    position: relative;
+    left: 40px;
+    top: 20px;
+    width: 400px;
+    height: 30px;
+    
+    box-shadow: -5px 4px 15px -4.5px rgba(0,0,0,.5);
+}
+
+.imagenFondoIntro {
+    
+
+    background-image: url("./Imágenes/pastel1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0% 40%;
+    height: 350px;
+    background-position-x: 70%;
+    opacity: 80%;
+}
+
+
+
+nav{
+    position: absolute;
+    font-family: 'Arial';
+    color: #371761;
+    top: 40px;
+    left: 900px;
+    word-spacing: 5em;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+
+.logo{
+    position: relative;
+    left: 80px;
+    top: 50px;
+    box-shadow: -7px 4px 20px -4px rgba(0,0,0,.8);
+    opacity: 100%;
+}
+
+.titulo{
+    font-family: Rochester; 
+    
+    position: relative;
+    top: -150px;
+    left: 400px;
+    font-size: 70px; 
+    -webkit-text-fill-color:  #371761;
+    -webkit-text-stroke-color: #9236A1;
+    -webkit-text-stroke-width: 0.1px;
+    opacity: 80%;
+}
+
+.subtitulo{
+    font-family: Rochester; 
+    font-size: 32px;
+    position: relative;
+    top: -150px;
+    left: 420px; 
+    -webkit-text-fill-color:  #ac47bb;
+    -webkit-text-stroke-color: #4a1e85;
+    -webkit-text-stroke-width: 0.2px;
+    opacity: 80%;
+}
+
+input[type=text] {
+    font-family: 'Arial';
+    font-size: 15px;
+    font-weight:lighter;
+    
+}
+
+div .subtitulosOtros{
+    height: 90px;
+    font-family: Rochester; 
+    font-size: 50px;
+    position: relative;
+    top: 10px;
+    left: 40px; 
+    -webkit-text-fill-color:  #faddee;
+    -webkit-text-stroke-color: #59224eb2;
+    -webkit-text-stroke-width: 0.2px;
+    opacity: 80%;
+}
