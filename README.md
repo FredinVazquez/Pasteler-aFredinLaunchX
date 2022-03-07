@@ -5,6 +5,7 @@ Otro punto a cubrir será llevar a cabo la maqueta de la página que solo el pas
 <p> El nombre de la pasteleria que pensé fue Cake Developer</p>
 
 <h2>Vinculos de las actividades desarrolladas</h2>
+
 <ul>
   <li><a href="https://www.canva.com/design/DAE5_Tk28-w/4vB-RIY4578GlWTzEwAiEw/view?utm_content=DAE5_Tk28-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
      target="blank">Link de logo Cake Developer- Canvas</a></li>
@@ -15,7 +16,7 @@ Otro punto a cubrir será llevar a cabo la maqueta de la página que solo el pas
   <li><a href="https://www.figma.com/file/fz2we9EMP3L9fKUi1LS8Yd/Cake-Developer?node-id=0%3A1"
      target="blank">UI Design - Cake Developer</a></li>
   
-  </ul>
+</ul>
 
 <p>
   Lo primero a comenzar será con el logo de la página, en este caso el logo fue realizado por medio de Canvas para colocar el texto, mientras que la imagen en sí fue realizada por medio del programa Blender, el cual es para desarrollar modelo y animación en 3D y 2D. El modelo en 3D utilizado no fue realizado por mí sino que fue un material gratuito descargado con anterioridad. 
