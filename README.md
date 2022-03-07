@@ -1,4 +1,4 @@
-<h1>PasteríaFredinLaunchX - Cake Developer</h1>
+<h1>PasteleríaFredinLaunchX - Cake Developer</h1>
 <p>El caso se trata de realizar la maquetación de una página tal que los clientes puedan ordenar un pastel completamente a su gusto, o sea que pueda tener la libertad de añadirle una descipción como Felicidades, hasta escoger los ardonos y sabores que tendrá el paste. La realización de esto es con base a un formulario.
 Otro punto a cubrir será llevar a cabo la maqueta de la página que solo el pastelero podrá ver, y será para el control de los pedidos y recursos restantes.</p>
 
@@ -12,6 +12,8 @@ Otro punto a cubrir será llevar a cabo la maqueta de la página que solo el pas
   <li><a href="https://miro.com/app/board/uXjVOJaNEOI=/?invite_link_id=24446157952"
      target="blank">Wireframe UX - Cake Developer</a></li>
   
+  <li><a href="https://www.figma.com/file/fz2we9EMP3L9fKUi1LS8Yd/Cake-Developer?node-id=0%3A1"
+     target="blank">UI Design - Cake Developer</a></li>
   
   </ul>
 
